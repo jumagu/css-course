@@ -1,0 +1,8 @@
+/* Clases Anidadas */
+.descripcion {
+    color: blue;
+}
+
+.header .descripcion {
+    color: red;
+}

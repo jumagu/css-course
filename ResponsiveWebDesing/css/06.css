@@ -1,0 +1,21 @@
+/* Medidas estándar en los Media Queries */
+
+/* https://getbootstrap.com/docs/5.2/layout/breakpoints/ */
+
+/* https://css-tricks.com/snippets/css/media-queries-for-standard-devices/ */
+
+@media (min-width: 550px) { 
+    
+}
+
+@media (min-width: 768px) { 
+    
+}
+
+@media (min-width: 1280px) { 
+    
+}
+
+@media (min-width: 1200px) { 
+    
+}

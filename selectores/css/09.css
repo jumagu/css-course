@@ -1,0 +1,5 @@
+/* Selector primer elemento después */
+/* se aplica el estilo al primer elemento parrafo después de un div dentro de la clase admin */
+.admin div+p {
+    background-color: red;
+}

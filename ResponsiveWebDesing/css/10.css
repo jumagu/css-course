@@ -1,0 +1,8 @@
+/* Imágenes Responsive */ 
+
+/* Snippet */
+img {
+    /* Con max-width: 100%; la imagen nunca va crecer más de su tamaño original */
+    max-width: 100%;
+    display: block;
+}

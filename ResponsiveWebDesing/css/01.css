@@ -1,0 +1,25 @@
+/* introduccion a media queries */
+.oferta {
+    background-color: #00446e;
+    padding: 2rem;
+    text-align: center;
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.precio {
+    font-size: 6rem;
+    margin: 0;
+}
+
+/* Los rems son buenos para las propiedades de css como el with, font, height etc
+   pero no son soportados en los media queries */
+@media (max-width: 600px) {
+    .oferta {
+        max-width: 30rem;
+    }
+
+    .precio {
+        font-size: 3rem;
+    }
+}

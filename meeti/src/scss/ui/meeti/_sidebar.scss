@@ -1,0 +1,35 @@
+@use "../../base/variables" as v;
+
+.info {
+  grid-column: 3 / 4;
+
+  &__imagen {
+    width: 100%;
+  }
+
+  &__contenido {
+    background-color: v.$secundario;
+    padding: 2rem;
+  }
+
+  &__heading,
+  &__widget {
+    color: v.$blanco;
+    text-align: center;
+  }
+
+  &__heading {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  &__widget {
+
+    &--mod {
+        span {
+            font-weight: 700;
+        }
+    }
+  }
+}

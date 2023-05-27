@@ -1,0 +1,8 @@
+/* Seleccionar la Primer Letra o Linea de un parrafo o elemento de texto */
+.primer-letra::first-letter {
+    font-size: 5rem;
+}
+
+.primer-linea::first-line {
+    font-size: 6rem;
+}

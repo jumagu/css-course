@@ -1,0 +1,19 @@
+/* ul li:nth-child(2),
+ul li:nth-child(4) {
+    border: 2px solid crimson;
+} */
+
+/* numeros impares */
+/* ul li:nth-child(odd) {
+    border: 2px solid crimson;
+} */
+
+/* numeros pares */
+/* ul li:nth-child(even) {
+    border: 2px solid crimson;
+} */
+
+/* de 4 en 4 */
+ul li:nth-child(3n + 1) {
+    border: 2px solid crimson;
+}

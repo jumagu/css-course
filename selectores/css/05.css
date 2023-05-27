@@ -1,0 +1,13 @@
+/* Selector Id */
+#encabezado {
+    text-transform: uppercase;
+    color: red;
+}
+
+.texto {
+    color: blueviolet;
+}
+
+#encabezado.texto {
+     color: tomato;
+}

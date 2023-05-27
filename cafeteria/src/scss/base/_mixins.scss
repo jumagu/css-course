@@ -1,0 +1,37 @@
+@use "variables" as v;
+
+@mixin telefono {
+  @media (min-width: v.$telefono) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: v.$tablet) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: v.$desktop) {
+    @content;
+  }
+}
+
+@mixin grid($columnas, $fraccion, $espacidado) {
+  display: grid;
+  grid-template-columns: repeat($columnas, $fraccion);
+  gap: $espacidado;
+}
+
+//Un codigo que se utilizará mucho
+//Una exelente forma de reutilizar nuestro código
+/* @mixin color {
+  color: black;
+  font-size: 2rem;
+}
+
+@mixin bgColor($color) {
+  background-color: $color;
+}
+ */

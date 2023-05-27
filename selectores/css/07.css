@@ -1,0 +1,7 @@
+/* 2 elementos */
+.texto,
+.oferta {
+    border: 3px solid yellow;
+    padding: 2rem;
+}
+/* Nos permite ahorrar código, además de que será más facil de mantener */

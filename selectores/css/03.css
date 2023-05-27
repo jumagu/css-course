@@ -1,0 +1,26 @@
+/* selector de dos o más clases */
+.texto {
+    background-color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.mayusculas {
+    text-transform: uppercase;
+}
+
+/* Selecciona el elemento que tenga las dos clases */
+.texto.mayusculas {
+    font-size: 10rem;
+}
+
+/* no es lo mismo que esto, aquí Selecciona los elementos con clase texto y que como hijo tienen azul */
+.texto .mayusculas {
+    font-size: 10rem ;
+}
+
+.texto.azul {
+    text-align: right;
+}

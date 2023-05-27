@@ -1,0 +1,4 @@
+/* Selector primer nivel de hijos */
+.admin>div {
+    border: .2rem solid red;
+}

@@ -1,0 +1,8 @@
+/* Selector de Etiqueta y Clase */
+div.texto {
+    background-color: yellow;
+}
+
+p {
+    background-color: red;
+}

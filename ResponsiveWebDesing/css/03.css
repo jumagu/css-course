@@ -1,0 +1,36 @@
+/* Desktop First (No es el estandar) */
+.oferta {
+    background-color: #00446e;
+    padding: 2rem;
+    text-align: center;
+    max-width: 60rem;
+    margin-inline: auto;
+}
+
+.precio {
+    font-size: 6rem;
+    padding: 0;
+}
+
+/* El orden de los media queries tiene importancia como en todo en CSS
+   porque aplica también la regla de la especificidad y cascada */
+
+@media(max-width: 800px) {
+    .oferta {
+        max-width: 40rem;
+    }
+
+    .precio {
+        font-size: 4.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .oferta {
+        max-width: 100%;
+    }
+
+    .precio {
+        font-size: 3rem;
+    }
+}
