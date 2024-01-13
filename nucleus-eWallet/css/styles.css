@@ -72,33 +72,33 @@ img {
 
 @media (min-width: 768px) {
     .header {
-        background-size: 45rem;
+        background-size: 53rem;
     }
 }
 
 @media (min-width: 992px) {
     .header {
-        background-size: 60rem;
+        background-size: 50vw;
     }
 }
 
-@media (min-width: 1280px) {
+/* @media (min-width: 1280px) {
     .header {
-        background-size: 80rem;
+        background-size: 50vw;
     }
-}
+} */
 
-@media (min-width: 2200px) {
+/* @media (min-width: 2200px) {
     .header {
         background-size: 160rem;
     }
-}
+} */
 
-@media (min-width: 3200px) {
+/* @media (min-width: 3200px) {
     .header {
         background-size: 190rem;
     }
-}
+} */
 
 @media (min-width: 768px) {
     .header__barra {
