@@ -4,16 +4,16 @@ Este repositorio contiene una colección de proyectos que realicé en un curso s
 
 Links:
 
-- [Airbnb](https://airbnb-jmgg.netlify.app)
-- [Arquitectura](https://arquitectura-jmgg.netlify.app)
-- [Audífonos](https://techpro-jmgg.netlify.app)
-- [Cafetería](https://cafeteria-jmgg.netlify.app)
-- [Carolina Spa](https://spa-jmgg.netlify.app)
-- [Delivery App](https://deliveryapp-jmgg.netlify.app)
-- [Ecommerce](https://ecommerce-jmgg.netlify.app)
-- [Escuela de Cocina](https://escuela-cocina-jmgg.netlify.app)
-- [Guitar LA](https://guitars-jmgg.netlify.app)
-- [Meeti](https://meeti-jmgg.netlify.app)
-- [Nucleus E-Wallet](https://nucleus-ewallet-jmgg.netlify.app)
-- [Podcast App](https://podcast-app-jmgg.netlify.app)
-- [Real Estate](https://realstate-jmgg.netlify.app)
+- <a href="https://airbnb-jmgg.netlify.app" target="_blank">Airbnb</a>
+- <a href="https://arquitectura-jmgg.netlify.app" target="_blank">Arquitectura</a>
+- <a href="https://techpro-jmgg.netlify.app" target="_blank">Audífonos</a>
+- <a href="https://cafeteria-jmgg.netlify.app" target="_blank">Cafetería</a>
+- <a href="https://spa-jmgg.netlify.app" target="_blank">Carolina Spa</a>
+- <a href="https://deliveryapp-jmgg.netlify.app" target="_blank">Delivery App</a>
+- <a href="https://ecommerce-jmgg.netlify.app" target="_blank">Ecommerce</a>
+- <a href="https://escuela-cocina-jmgg.netlify.app" target="_blank">Escuela de Cocina</a>
+- <a href="https://guitars-jmgg.netlify.app" target="_blank">Guitar LA</a>
+- <a href="https://meeti-jmgg.netlify.app" target="_blank">Meeti</a>
+- <a href="https://nucleus-ewallet-jmgg.netlify.app" target="_blank">Nucleus E-Wallet</a>
+- <a href="https://podcast-app-jmgg.netlify.app" target="_blank">Podcast App</a>
+- <a href="https://realstate-jmgg.netlify.app" target="_blank">Real Estate</a>
