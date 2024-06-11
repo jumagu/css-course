@@ -4,7 +4,7 @@ Este repositorio contiene una colección de proyectos que realicé en un curso s
 
 Links:
 
-- <a href="https://airbnb-jmgg.netlify.app" target="_blank">Airbnb</a>
+- <a href="https://air-bnb-jmgg.netlify.app" target="_blank">Airbnb</a>
 - <a href="https://arquitectura-jmgg.netlify.app" target="_blank">Arquitectura</a>
 - <a href="https://techpro-jmgg.netlify.app" target="_blank">Audífonos</a>
 - <a href="https://cafeteria-jmgg.netlify.app" target="_blank">Cafetería</a>
